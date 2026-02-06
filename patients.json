@@ -1,0 +1,280 @@
+[
+  {
+    "patient": {
+      "name": "",
+      "phone": "1234567",
+      "createdAt": "2026-02-01T20:15:40.402Z"
+    },
+    "input": {
+      "phone": "1234567",
+      "body": "thin",
+      "digestion": "irregular",
+      "appetite": "low",
+      "stress": "low"
+    },
+    "dosha": {
+      "scores": {
+        "vata": 4,
+        "pitta": 0,
+        "kapha": 0
+      },
+      "dominant": "vata"
+    },
+    "agni": "Vishama Agni",
+    "diet": {
+      "breakfast": [
+        "Warm water"
+      ],
+      "lunch": [
+        "Light khichdi"
+      ],
+      "dinner": [
+        "Very light soup"
+      ]
+    },
+    "explanation": [
+      "Low appetite ke kaaran light aur easily digestible meals diye gaye hain.",
+      "Vishama Agni ke liye warm aur cooked food prefer kiya gaya hai.",
+      "Diet ko vata dosha balance karne ke liye customize kiya gaya hai."
+    ]
+  },
+  {
+    "patient": {
+      "name": "",
+      "phone": "1234567",
+      "createdAt": "2026-02-01T20:20:46.421Z"
+    },
+    "input": {
+      "phone": "1234567",
+      "body": "thin",
+      "digestion": "irregular",
+      "appetite": "low",
+      "stress": "low"
+    },
+    "dosha": {
+      "scores": {
+        "vata": 4,
+        "pitta": 0,
+        "kapha": 0
+      },
+      "dominant": "vata"
+    },
+    "agni": "Vishama Agni",
+    "diet": {
+      "breakfast": [
+        "Warm water"
+      ],
+      "lunch": [
+        "Light khichdi"
+      ],
+      "dinner": [
+        "Very light soup"
+      ]
+    },
+    "explanation": [
+      "Low appetite ke kaaran light aur easily digestible meals diye gaye hain.",
+      "Vishama Agni ke liye warm aur cooked food prefer kiya gaya hai.",
+      "Diet ko vata dosha balance karne ke liye customize kiya gaya hai."
+    ]
+  },
+  {
+    "patient": {
+      "name": "",
+      "phone": "456",
+      "createdAt": "2026-02-01T20:21:30.563Z"
+    },
+    "input": {
+      "phone": "456",
+      "body": "thin",
+      "digestion": "slow",
+      "appetite": "variable",
+      "stress": "high"
+    },
+    "dosha": {
+      "scores": {
+        "vata": 3,
+        "pitta": 0,
+        "kapha": 2
+      },
+      "dominant": "vata"
+    },
+    "agni": "Manda Agni",
+    "diet": {
+      "breakfast": [
+        "Warm water",
+        "Ginger tea"
+      ],
+      "lunch": [
+        "Thin dal soup"
+      ],
+      "dinner": [
+        "Early light dinner",
+        "Ashwagandha milk"
+      ]
+    },
+    "explanation": [
+      "Irregular appetite ke liye simple aur fixed meal pattern rakha gaya hai.",
+      "Weak digestion ke kaaran very light meals recommend kiye gaye hain.",
+      "High stress ke liye calming foods include kiye gaye hain.",
+      "Diet ko vata dosha balance karne ke liye customize kiya gaya hai."
+    ]
+  },
+  {
+    "patient": {
+      "name": "",
+      "phone": "456",
+      "createdAt": "2026-02-01T20:24:07.212Z"
+    },
+    "input": {
+      "phone": "456",
+      "body": "thin",
+      "digestion": "irregular",
+      "appetite": "low",
+      "stress": "low"
+    },
+    "dosha": {
+      "scores": {
+        "vata": 4,
+        "pitta": 0,
+        "kapha": 0
+      },
+      "dominant": "vata"
+    },
+    "agni": "Vishama Agni",
+    "diet": {
+      "breakfast": [
+        "Warm water"
+      ],
+      "lunch": [
+        "Light khichdi"
+      ],
+      "dinner": [
+        "Very light soup"
+      ]
+    },
+    "explanation": [
+      "Because your appetite is low, light and easy-to-digest meals have been recommended to avoid overloading digestion.",
+      "Irregular digestive fire (Vishama Agni) benefits from warm, cooked and grounding foods.",
+      "The diet has been customized to help balance your dominant vata dosha."
+    ]
+  },
+  {
+    "patient": {
+      "name": "",
+      "phone": "",
+      "createdAt": "2026-02-01T20:24:18.635Z"
+    },
+    "input": {
+      "phone": "",
+      "body": "heavy",
+      "digestion": "slow",
+      "appetite": "variable",
+      "stress": "low"
+    },
+    "dosha": {
+      "scores": {
+        "vata": 0,
+        "pitta": 0,
+        "kapha": 4
+      },
+      "dominant": "kapha"
+    },
+    "agni": "Manda Agni",
+    "diet": {
+      "breakfast": [
+        "Warm water",
+        "Ginger tea"
+      ],
+      "lunch": [
+        "Thin dal soup",
+        "Millets"
+      ],
+      "dinner": [
+        "Early light dinner"
+      ]
+    },
+    "explanation": [
+      "Irregular appetite indicates fluctuating digestion, so simple and consistent meals have been suggested.",
+      "Weak digestive fire (Manda Agni) requires very light meals to support proper digestion.",
+      "The diet has been customized to help balance your dominant kapha dosha."
+    ]
+  },
+  {
+    "patient": {
+      "name": "",
+      "phone": "1234567898765",
+      "createdAt": "2026-02-01T20:53:49.553Z"
+    },
+    "input": {
+      "phone": "1234567898765",
+      "body": "heavy",
+      "digestion": "strong",
+      "appetite": "normal",
+      "stress": "moderate"
+    },
+    "dosha": {
+      "scores": {
+        "vata": 0,
+        "pitta": 2,
+        "kapha": 2
+      },
+      "dominant": "kapha"
+    },
+    "agni": "Balanced Agni",
+    "diet": {
+      "breakfast": [
+        "Millets"
+      ],
+      "lunch": [
+        "Vegetables",
+        "Dal",
+        "Millets"
+      ],
+      "dinner": [
+        "Soup"
+      ]
+    },
+    "explanation": [
+      "The diet has been customized to help balance your dominant kapha dosha."
+    ]
+  },
+  {
+    "patient": {
+      "name": "",
+      "phone": "1234567898765",
+      "createdAt": "2026-02-02T19:40:35.719Z"
+    },
+    "input": {
+      "phone": "1234567898765",
+      "body": "thin",
+      "digestion": "irregular",
+      "appetite": "low",
+      "stress": "low"
+    },
+    "dosha": {
+      "scores": {
+        "vata": 4,
+        "pitta": 0,
+        "kapha": 0
+      },
+      "dominant": "vata"
+    },
+    "agni": "Vishama Agni",
+    "diet": {
+      "breakfast": [
+        "Warm water"
+      ],
+      "lunch": [
+        "Light khichdi"
+      ],
+      "dinner": [
+        "Very light soup"
+      ]
+    },
+    "explanation": [
+      "Because your appetite is low, light and easy-to-digest meals have been recommended to avoid overloading digestion.",
+      "Irregular digestive fire (Vishama Agni) benefits from warm, cooked and grounding foods.",
+      "The diet has been customized to help balance your dominant vata dosha."
+    ]
+  }
+]
